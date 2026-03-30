@@ -10,3 +10,7 @@ Download the R-code file: "actual_2026_mm_dd.R" and the two data files: dcpc-202
 
 Run the entire code first (don't forget to change the working directory).
 
+If you are using RStudio, after you run the entire code first, you can jump to the beginning and end of each table and figure by clicking on the left-lower corner list of content. 
+
+
+--------------------------------------- 
