@@ -14,4 +14,5 @@ If you are using RStudio, after you run the entire code first, you can jump to t
 
 --------------------------------------- 
 
-Note: The first imputation of NAs is time consuming. To find this line in the code search for "start..." I recorded XXX minutes on a Windows machine Intel Core YYY processor with 64GB Ram. I also recorded ZZZ on a Lenovo machine with 8GB Ram and Core i3 processor.
+Note: The first imputation of NAs is time consuming. To find this line in the code search for "r4_imp_start_time". 
+I recorded 6.57 minutes on a Dell Windows machine 12th Gen Intel Core i9 processor with 64GB RAM. I also recorded ZZZ on a Lenovo machine with 8GB Ram and Core i3 processor.
