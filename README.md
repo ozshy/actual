@@ -16,6 +16,6 @@ If you are using RStudio, after you run the entire code first, you can jump to t
 
 Note: The first imputation (using the missForest package) of NAs is time consuming. To find this line in the code search for "r4_imp_start_time". 
 
-I recorded 6.57 minutes on a Dell Windows machine 12th Gen Intel Core i9 processor with 64GB RAM. 
+I recorded 6.57 minutes on a Dell Windows machine 12th Gen Intel Core i9 2.50 GHz processor with 64GB RAM. 
 
-I also recorded ZZZ on a Lenovo machine with 8GB Ram and Intel Core i3 1.20Ghz processor.
+I also recorded ZZZ on a Lenovo machine with 8GB Ram and Intel Core i3 1.20 GHz processor.
