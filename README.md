@@ -18,4 +18,4 @@ Note: The first imputation (using the missForest package) of NAs is time consumi
 
 I recorded 6.57 minutes on a Dell Windows machine 12th Gen Intel Core i9 2.50 GHz processor with 64GB RAM. 
 
-I also recorded ZZZ on a Lenovo machine with 8GB Ram and Intel Core i3 1.20 GHz processor.
+I also recorded 10.88 on a Lenovo machine with 8GB Ram and Intel Core i3 1.20 GHz processor.
