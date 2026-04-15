@@ -1,4 +1,4 @@
-R-Code and data for a paper titled "Stated Preference and Actual Choice"
+R-Code and data for a paper titled "Preference Versus Actual Choice: Evidence From a Payments Survey"
 
 by Oz Shy
 
