@@ -12,6 +12,7 @@ Run the ENTIRE code first (don't forget to change the working directory).
 
 If you are using RStudio, after you run the ENTIRE code first, you can jump to the beginning and end of each table and figure by clicking the list of contents on the left-lower corner. 
 
+However, for the yearly 2021-2025 analysis (preparation for the graphs/tab;es) there are repeating variables that then get saved by year. 
 --------------------------------------- 
 
 
